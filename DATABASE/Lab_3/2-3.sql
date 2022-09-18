@@ -1,0 +1,3 @@
+--use ARTS_LAB_3;
+----alter table ÒÎÂÀĞÛ add my_name nvarchar(10);
+----alter table ÒÎÂÀĞÛ drop column ARTS_LAB_3;
