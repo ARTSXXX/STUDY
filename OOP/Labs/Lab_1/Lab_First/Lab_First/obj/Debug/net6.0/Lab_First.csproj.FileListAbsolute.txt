@@ -1,0 +1,15 @@
+E:\C#\Lab_1\Lab_First\Lab_First\obj\Debug\net6.0\Lab_First.csproj.AssemblyReference.cache
+E:\C#\Lab_1\Lab_First\Lab_First\obj\Debug\net6.0\Lab_First.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Lab_1\Lab_First\Lab_First\obj\Debug\net6.0\Lab_First.AssemblyInfoInputs.cache
+E:\C#\Lab_1\Lab_First\Lab_First\obj\Debug\net6.0\Lab_First.AssemblyInfo.cs
+E:\C#\Lab_1\Lab_First\Lab_First\obj\Debug\net6.0\Lab_First.csproj.CoreCompileInputs.cache
+E:\C#\Lab_1\Lab_First\Lab_First\bin\Debug\net6.0\Lab_First.exe
+E:\C#\Lab_1\Lab_First\Lab_First\bin\Debug\net6.0\Lab_First.deps.json
+E:\C#\Lab_1\Lab_First\Lab_First\bin\Debug\net6.0\Lab_First.runtimeconfig.json
+E:\C#\Lab_1\Lab_First\Lab_First\bin\Debug\net6.0\Lab_First.dll
+E:\C#\Lab_1\Lab_First\Lab_First\bin\Debug\net6.0\Lab_First.pdb
+E:\C#\Lab_1\Lab_First\Lab_First\obj\Debug\net6.0\Lab_First.dll
+E:\C#\Lab_1\Lab_First\Lab_First\obj\Debug\net6.0\refint\Lab_First.dll
+E:\C#\Lab_1\Lab_First\Lab_First\obj\Debug\net6.0\Lab_First.pdb
+E:\C#\Lab_1\Lab_First\Lab_First\obj\Debug\net6.0\Lab_First.genruntimeconfig.cache
+E:\C#\Lab_1\Lab_First\Lab_First\obj\Debug\net6.0\ref\Lab_First.dll
