@@ -113,7 +113,7 @@ namespace Lab_3
 
         }
 
-        public static implicit operator Array (int Length) // Неявное (explcit  - Явное)
+        public static  implicit operator Array (int Length) // Неявное (explcit  - Явное)
         {
             return new Array(Length); 
         }

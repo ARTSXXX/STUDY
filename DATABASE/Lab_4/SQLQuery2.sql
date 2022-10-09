@@ -1,6 +1,9 @@
-use UNIVER
-select AUDITORIUM.AUDITORIUM, AUDITORIUM_TYPE.AUDITORIUM_TYPENAME
-from AUDITORIUM_TYPE
-         Inner Join AUDITORIUM
-                    on AUDITORIUM_TYPE.AUDITORIUM_TYPE = AUDITORIUM.AUDITORIUM_TYPE And
-                       AUDITORIUM_TYPE.AUDITORIUM_TYPENAME Like '%компьютер%';
+use ARTS_MyBase;
+
+
+select Пользователь.Фамилия,  Пользователь.Адрес, Пользователь.Покупатель_ID
+from Пользователь 
+	 INNER JOIN Заказ
+		On Заказ.Покупатель_id
+			= Пользователь.Покупатель_ID and
+				Пользователь.Фамилия Like 'Арцыхо%'
