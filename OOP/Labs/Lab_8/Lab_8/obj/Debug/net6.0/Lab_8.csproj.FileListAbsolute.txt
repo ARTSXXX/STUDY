@@ -1,0 +1,15 @@
+E:\STUDY\OOP\Labs\Lab_8\Lab_8\bin\Debug\net6.0\Lab_8.exe
+E:\STUDY\OOP\Labs\Lab_8\Lab_8\bin\Debug\net6.0\Lab_8.deps.json
+E:\STUDY\OOP\Labs\Lab_8\Lab_8\bin\Debug\net6.0\Lab_8.runtimeconfig.json
+E:\STUDY\OOP\Labs\Lab_8\Lab_8\bin\Debug\net6.0\Lab_8.dll
+E:\STUDY\OOP\Labs\Lab_8\Lab_8\bin\Debug\net6.0\Lab_8.pdb
+E:\STUDY\OOP\Labs\Lab_8\Lab_8\obj\Debug\net6.0\Lab_8.csproj.AssemblyReference.cache
+E:\STUDY\OOP\Labs\Lab_8\Lab_8\obj\Debug\net6.0\Lab_8.GeneratedMSBuildEditorConfig.editorconfig
+E:\STUDY\OOP\Labs\Lab_8\Lab_8\obj\Debug\net6.0\Lab_8.AssemblyInfoInputs.cache
+E:\STUDY\OOP\Labs\Lab_8\Lab_8\obj\Debug\net6.0\Lab_8.AssemblyInfo.cs
+E:\STUDY\OOP\Labs\Lab_8\Lab_8\obj\Debug\net6.0\Lab_8.csproj.CoreCompileInputs.cache
+E:\STUDY\OOP\Labs\Lab_8\Lab_8\obj\Debug\net6.0\Lab_8.dll
+E:\STUDY\OOP\Labs\Lab_8\Lab_8\obj\Debug\net6.0\refint\Lab_8.dll
+E:\STUDY\OOP\Labs\Lab_8\Lab_8\obj\Debug\net6.0\Lab_8.pdb
+E:\STUDY\OOP\Labs\Lab_8\Lab_8\obj\Debug\net6.0\Lab_8.genruntimeconfig.cache
+E:\STUDY\OOP\Labs\Lab_8\Lab_8\obj\Debug\net6.0\ref\Lab_8.dll

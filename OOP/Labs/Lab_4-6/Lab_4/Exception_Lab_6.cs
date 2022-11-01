@@ -48,20 +48,7 @@ namespace Lab_4
             }
             
 
-            Square("12"); // Квадрат числа 12: 144
-            Square("ab"); // Некорректный ввод
-
-            void Square(string data)
-            {
-                if (int.TryParse(data, out var x))
-                {
-                    Console.WriteLine($"Квадрат числа {x}: {x * x}");
-                }
-                else
-                {
-                    Console.WriteLine("Некорректный ввод");
-                }
-            }
+           
 
             #region Многоразовые исключения
 
@@ -100,11 +87,7 @@ namespace Lab_4
 
 
 
-            #region Макрос Assert 
-           
-          
-        
-            #endregion
+            
 
         }
         string name = "Pavel";
