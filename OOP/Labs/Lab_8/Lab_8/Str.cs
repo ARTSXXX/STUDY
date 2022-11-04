@@ -12,7 +12,7 @@ namespace Lab_8
   
     class Str
     {
-        public string String { get; set; } = "Hi, u lose";
+        private string String { get; set; } = "Hi, u lose";
 
 
 
