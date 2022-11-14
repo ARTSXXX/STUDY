@@ -1,0 +1,15 @@
+D:\ОИБ\OIB_lab4.2\OIB_lab4.2\bin\Debug\OIB_lab4.2.exe.config
+D:\ОИБ\OIB_lab4.2\OIB_lab4.2\bin\Debug\OIB_lab4.2.exe
+D:\ОИБ\OIB_lab4.2\OIB_lab4.2\bin\Debug\OIB_lab4.2.pdb
+D:\ОИБ\OIB_lab4.2\OIB_lab4.2\obj\Debug\OIB_lab4.2.csproj.AssemblyReference.cache
+D:\ОИБ\OIB_lab4.2\OIB_lab4.2\obj\Debug\OIB_lab4.2.csproj.CoreCompileInputs.cache
+D:\ОИБ\OIB_lab4.2\OIB_lab4.2\obj\Debug\OIB_lab4.2.exe
+D:\ОИБ\OIB_lab4.2\OIB_lab4.2\obj\Debug\OIB_lab4.2.pdb
+E:\STUDY\ОИБ\OIB_lab4.2\OIB_lab4.2\obj\Debug\OIB_lab4.2.csproj.AssemblyReference.cache
+E:\STUDY\ОИБ\OIB_lab4.2\OIB_lab4.2\obj\Debug\OIB_lab4.2.csproj.SuggestedBindingRedirects.cache
+E:\STUDY\ОИБ\OIB_lab4.2\OIB_lab4.2\obj\Debug\OIB_lab4.2.csproj.CoreCompileInputs.cache
+E:\STUDY\ОИБ\OIB_lab4.2\OIB_lab4.2\obj\Debug\OIB_lab4.2.exe
+E:\STUDY\ОИБ\OIB_lab4.2\OIB_lab4.2\obj\Debug\OIB_lab4.2.pdb
+E:\STUDY\ОИБ\OIB_lab4.2\OIB_lab4.2\bin\Debug\OIB_lab4.2.exe.config
+E:\STUDY\ОИБ\OIB_lab4.2\OIB_lab4.2\bin\Debug\OIB_lab4.2.exe
+E:\STUDY\ОИБ\OIB_lab4.2\OIB_lab4.2\bin\Debug\OIB_lab4.2.pdb
