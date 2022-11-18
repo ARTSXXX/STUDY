@@ -62,7 +62,7 @@ namespace Lab_10
         
 
        
-       
+        
         public void Query()
         {
 

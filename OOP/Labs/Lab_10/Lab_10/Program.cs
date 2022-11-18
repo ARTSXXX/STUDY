@@ -111,7 +111,8 @@ namespace Lab_10
             on cities_new.age equals cities_old.age
             select cities_new;
 
-            ]
+
+            
 
 
            
