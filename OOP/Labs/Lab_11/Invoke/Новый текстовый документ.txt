@@ -1,0 +1,17 @@
+
+    public static void Invoke(Type type, string methodName)
+    {
+        var method = type.GetMethod(methodName);
+        var parameters = method.GetParameters();
+        var values = new object[parameters.Length];
+        for (int i = 0; i < parameters.Length; i++)
+        {
+            values[i] = GetRandomValue(parameters[i].ParameterType);
+        }
+        method.Invoke(null, values);
+    }
+
+    private static object GetRandomValue(Type parameterType)
+    {
+        throw new NotImplementedException();
+    }

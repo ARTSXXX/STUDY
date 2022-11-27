@@ -1,0 +1,12 @@
+Файлы:
+APAlogfile.json
+Lab_12.deps.json
+Lab_12.dll
+Lab_12.exe
+Lab_12.pdb
+Lab_12.runtimeconfig.json
+
+
+Папки:
+APAFiles
+APAInspect
