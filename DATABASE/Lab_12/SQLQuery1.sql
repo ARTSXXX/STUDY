@@ -59,3 +59,36 @@ create table #SUBJECT (
 insert #SUBJECT exec PSSUBJECT @p = 'ИСиТ'
 
 select * from #SUBJECT
+
+--------------------------------------------
+
+use ARTS_MyBase
+go
+create procedure MyProc
+as 
+begin
+declare @my int = (select count(*) from Пользователь)
+select * from Пользователь
+return @my
+end
+
+drop procedure MyProc
+declare @my int = 0
+exec @my = MyProc
+
+use ARTS_MyBase
+go
+
+alter procedure MyProc @p varchar(20)
+as begin
+declare @my int = (select count(*) from Пользователь)
+print 'param @p' + @p
+select Пользователь.Фамилия from Пользователь
+where Пользователь.Фамилия = @p
+return @p
+end
+
+
+
+
+

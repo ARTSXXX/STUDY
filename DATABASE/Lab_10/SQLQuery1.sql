@@ -19,15 +19,14 @@ CLOSE list
 
 use ARTS_MyBase
 declare @ANY_2 nvarchar (20), @ALL_2 nvarchar (300)='';
-declare list cursor for select Фамилия from Пользователь
+declare list_2 cursor for select Фамилия from Пользователь
 open list_2
 fetch list_2 into @ANY_2 
-print 'Список дисциплин'
 while @@FETCH_STATUS = 0
 begin 
 set @ALL_2 = RTRIM(@ANY_2) + ',' + @ALL_2
 FETCH list_2 into @ANY_2
 end
-print RTRIM(@ALL_2) + '- Исит'
+print RTRIM(@ALL_2)
 CLOSE list_2
 

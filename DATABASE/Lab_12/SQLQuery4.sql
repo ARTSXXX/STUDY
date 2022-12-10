@@ -24,3 +24,22 @@ declare @rc int;
 exec @rc = PAUDITORIUM_INSERT @a = '315-1',@n =  '415-1', @c =15, @t =  'ЛБ-К';
 print 'код ошибки: ' + cast(@rc as varchar(5)) 
 	
+-------------------------------------------------------------------------------
+use ARTS_MyBase
+
+go
+create procedure test_error
+@a int
+as declare @rc int = 1;
+begin try
+insert into Пользователь(Покупатель_ID)
+	values (@a)
+	return @rc;
+end try
+begin catch
+print 'сообщение: ' + error_message();
+end catch
+
+declare @a int;
+exec @a = test_error @a = 13
+print 'код ошибки: ' + cast(@a as varchar(5)) 
