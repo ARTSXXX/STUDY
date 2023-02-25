@@ -1,0 +1,15 @@
+E:\STUDY\Паттерны Проектирования\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.exe
+E:\STUDY\Паттерны Проектирования\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.deps.json
+E:\STUDY\Паттерны Проектирования\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.runtimeconfig.json
+E:\STUDY\Паттерны Проектирования\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.dll
+E:\STUDY\Паттерны Проектирования\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.pdb
+E:\STUDY\Паттерны Проектирования\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.csproj.AssemblyReference.cache
+E:\STUDY\Паттерны Проектирования\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\STUDY\Паттерны Проектирования\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.AssemblyInfoInputs.cache
+E:\STUDY\Паттерны Проектирования\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.AssemblyInfo.cs
+E:\STUDY\Паттерны Проектирования\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.csproj.CoreCompileInputs.cache
+E:\STUDY\Паттерны Проектирования\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.dll
+E:\STUDY\Паттерны Проектирования\Lab_2\Lab_2\obj\Debug\net6.0\refint\Lab_2.dll
+E:\STUDY\Паттерны Проектирования\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.pdb
+E:\STUDY\Паттерны Проектирования\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.genruntimeconfig.cache
+E:\STUDY\Паттерны Проектирования\Lab_2\Lab_2\obj\Debug\net6.0\ref\Lab_2.dll
